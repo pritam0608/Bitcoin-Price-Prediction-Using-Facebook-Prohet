@@ -5,8 +5,8 @@
   * Utilized the “GOOGLE FINANCE” formula to extract real-time financial data and evaluate the forecast_Bitcoin and analysis within Google Sheets.
 
 **Evaluation and Analysis within Google Sheets**
-go throught the given google sheet link
-google shhet link : https://docs.google.com/spreadsheets/d/1I_rjh3MbCXpNVqwJ7bi34EVMuGU4H0gxZoRMmGlQzTc/edit?usp=sharing
+
+go throught the given google sheet link: https://docs.google.com/spreadsheets/d/1I_rjh3MbCXpNVqwJ7bi34EVMuGU4H0gxZoRMmGlQzTc/edit?usp=sharing
 
 **Dataset:**
 
